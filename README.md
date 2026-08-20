@@ -1,5 +1,7 @@
 # Kasuwa
 
+**Live demo → [kasuwa-dusky.vercel.app](https://kasuwa-dusky.vercel.app)**
+
 A demonstration e-commerce storefront modelled on Nigerian marketplaces like
 Jumia. Built with Next.js 15, TypeScript and Tailwind CSS.
 
